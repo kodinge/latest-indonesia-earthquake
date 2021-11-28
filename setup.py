@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="LatestIndonesiaEarthquake",
-    version="0.0.1",
+    version="0.0.2",
     author="Tedy Maradho Pasa",
     author_email="maradho@gmail.com",
     description="This package will produce the latest Indonesia earthquake",
